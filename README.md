@@ -7,5 +7,12 @@ By introducing various non-local blocks to capture the long-range dependencies, 
 ## Model
 ![model](imgs/Fig2.png)
 
+## Result
+![Iab](imgs/Tab.png)
+![Fig3](imgs/Fig3.png)
+
+## Visualization of Learned Attention Map
+![V1](imgs/V1.png)
+![V2](imgs/V2.png)
 
 
